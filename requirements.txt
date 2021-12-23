@@ -1,0 +1,4 @@
+opencv-python-headless
+numpy
+colour
+git+https://github.com/tehzevo/protopost-python
